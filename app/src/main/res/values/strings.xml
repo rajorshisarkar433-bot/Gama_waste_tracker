@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grama Waste Tracker</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_report">Report</string>
+    <string name="nav_guide">Guide</string>
+    <string name="tractor_location">Where is the tractor?</string>
+    <string name="arrival_alert">The tractor will reach your door in 5 minutes!</string>
+    <string name="report_blackspot">Report Blackspot</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="upload">Upload</string>
+    <string name="waste_segregation">Waste Segregation</string>
+    <string name="dry_waste">Dry Waste</string>
+    <string name="wet_waste">Wet Waste</string>
+    <string name="dry_waste_desc">Plastic, Paper, Glass, Metal</string>
+    <string name="wet_waste_desc">Fruit and vegetable peels, leaves, leftover food</string>
+</resources>

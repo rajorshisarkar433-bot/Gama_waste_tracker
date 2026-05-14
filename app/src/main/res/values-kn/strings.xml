@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಗ್ರಾಮ ತ್ಯಾಜ್ಯ ಟ್ರ್ಯಾಕರ್</string>
+    <string name="nav_map">ನಕ್ಷೆ</string>
+    <string name="nav_report">ವರದಿ</string>
+    <string name="nav_guide">ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="tractor_location">ಕಸದ ಗಾಡಿ ಎಲ್ಲಿದೆ?</string>
+    <string name="arrival_alert">ಗಾಡಿ ನಿಮ್ಮ ಮನೆಗೆ 5 ನಿಮಿಷಗಳಲ್ಲಿ ತಲುಪುತ್ತದೆ!</string>
+    <string name="report_blackspot">ಬ್ಲ್ಯಾಕ್‌ಸ್ಪಾಟ್ ವರದಿ ಮಾಡಿ</string>
+    <string name="take_photo">ಫೋಟೋ ತೆಗೆಯಿರಿ</string>
+    <string name="upload">ಅಪ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="waste_segregation">ತ್ಯಾಜ್ಯ ವಿಂಗಡಣೆ</string>
+    <string name="dry_waste">ಒಣ ತ್ಯಾಜ್ಯ</string>
+    <string name="wet_waste">ಹಸಿ ತ್ಯಾಜ್ಯ</string>
+    <string name="dry_waste_desc">ಪ್ಲಾಸ್ಟಿಕ್, ಕಾಗದ, ಗಾಜು, ಲೋಹ</string>
+    <string name="wet_waste_desc">ಹಣ್ಣು ಮತ್ತು ತರಕಾರಿ ಸಿಪ್ಪೆಗಳು, ಎಲೆಗಳು, ಆಹಾರದ ಉಳಿಕೆಗಳು</string>
+</resources>
